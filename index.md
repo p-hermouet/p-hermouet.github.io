@@ -14,6 +14,7 @@ Previously, I got my my Master's and Bachelor's degree at Université de Bordeau
 
 # Research Interests
 
+- Quantum cryptanalysis
 - Unclonable cryptography
 - Quantum information theory
 
