@@ -16,5 +16,5 @@ order: 1
 - Semi-Quantum Copy-Protection and More (**TCC 2023**) - [eprint](https://eprint.iacr.org/2023/244)  
 *C. Chevalier, P. Hermouet, H. Vu*
 
-- Security Models and Cryptographic Protocols in a Quantum World - (**under review**)  
+- Security Models and Cryptographic Protocols in a Quantum World - (**Foundations and Trends in Theoretical Computer Science**) - [eprint](https://eprint.iacr.org/2025/2280)  
 *C. Chevalier, P. Hermouet, H. Vu*
