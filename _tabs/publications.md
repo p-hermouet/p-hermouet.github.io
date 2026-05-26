@@ -4,10 +4,10 @@ icon: fas fa-book
 order: 1
 ---
 
-- On the Quantum Equivalence between S|LWE⟩ and ISIS (**under review**) - [eprint](https://eprint.iacr.org/2025/1857)  
+- On the Quantum Equivalence between S|LWE⟩ and ISIS (**CRYPTO 2026**) - [eprint](https://eprint.iacr.org/2025/1857)  
 *A. Chailloux, P. Hermouet*
 
-- Towards Unclonable Cryptography in the Plain Model (**thesis manuscript**) - [pdf](/assets/files/thesis.pdf)  
+- Towards Unclonable Cryptography in the Plain Model (**Thesis Manuscript**) - [pdf](/assets/files/thesis.pdf)  
 *P. Hermouet*
 
 - Towards Unclonable Cryptography in the Plain Model (**under review**) - [eprint](https://eprint.iacr.org/2023/1825)  
